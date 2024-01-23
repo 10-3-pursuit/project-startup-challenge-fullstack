@@ -40,7 +40,7 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 
 #### Planning Deliverables
 
-1. In your Frontend Github Repo:
+1. In the readme.md your Frontend Github Repo:
 
 - You will create at least 5 User Stories
 - You will create 2 User Personas
@@ -57,7 +57,7 @@ Post your Github repo addresss in one your team channel in Slack.
 
 ### Part Three: The Application
 
-You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, JSON Server, CSS, and JavaScript. The application must full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc). You may also encorporate a 3rd party api to give you data that is already created.
+You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, JSON Server, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc, your choice). You may also incorporate a 3rd party api to give you data that is already created.
 
 > **Note**: Your contributions to this group project must be equitable. Failure to make meaningful individual contributions to this project may lead to a separate assessment of some kind or a failing grade.
 >
