@@ -18,6 +18,10 @@ Here is a [Checklist](checklist.md) that you are welcome to use and add to for y
 
 ### Part One: The Pitch
 
+**You should have already completed this part and can skip to Part Two**
+
+[Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge/blob/main/README.md)
+
 Your team will conceptualize two web app startup ideas and application, focusing on a unique problem-solving approach.
 
 You can use this Slide (or create your own) to present your ideas.
