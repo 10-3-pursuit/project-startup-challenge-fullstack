@@ -84,11 +84,13 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 
 1. The front-end application should be successfully deployed to the web using netlify.com.
 
-Your front-end repository should have a readme.md file with: - User Stories - Wireframe images - Setup instructions for your application. - Links to your deployed application.
+1. Your front-end repository should have a readme.md file with: - User Stories - Wireframe images - Setup instructions for your application. - Links to your deployed application.
 
 1. Your front-end repository should be built collaboratively. There should be commits from you and other developers on your team.
 
 1. The application should have a coherent design and appear clean and easy to understand.
+
+1. Responsive CSS is required with at least one breakpoint.
 
 #### View Requirements
 
