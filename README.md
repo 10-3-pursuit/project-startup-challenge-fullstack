@@ -59,8 +59,7 @@ Post your Github repo addresss in one your team channel in Slack.
 
 You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, JSON Server, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc, your choice). You may also incorporate a 3rd party api to give you data that is already created.
 
-> **Note**: Your contributions to this group project must be equitable. Failure to make meaningful individual contributions to this project may lead to a separate assessment of some kind or a failing grade.
->
+> **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
 
 ### Frontend Requirements:
