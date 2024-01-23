@@ -6,7 +6,7 @@ Remember the fun [Startup Challenge](https://github.com/10-3-pursuit/startup-cha
 
 You and your team now have the technical and intellectual capability to build out an MVP that solves a solid business problem.
 
-You are ultimately going to give a presentation showing the problem you are trying to solve, the user, for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
+You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
 
 This project has three parts:
 
@@ -19,25 +19,6 @@ This project has three parts:
 **You should have already completed this part and can skip to Part Two**
 
 [Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge/blob/main/README.md)
-
-Your team will conceptualize two web app startup ideas and application, focusing on a unique problem-solving approach.
-
-You can use this Slide (or create your own) to present your ideas.
-[Pitch Slide](https://docs.google.com/presentation/d/1qK14oA9yGXFtaGepRByEBg_T0r2IblGUeZTuUw8fdNw/edit#slide=id.g232c0c426ca_0_200)
-
-Each idea will answer three questions:
-
-1. What does the app do?
-
-1. What problem does the app solve
-
-1. Who is this app for?
-
-You will pitch these ideas to the full cohort and instructor. Afterwards, there will be a vote.
-
-Based on the vote, you will build out both a presentation and an application.
-
-\*\*\* Note: Based on feasibility and uniqueness the instructors may choose against the vote.
 
 ### Part Two: Non-coding Deliverables
 
@@ -53,7 +34,7 @@ For Final Presentation, you will create 5 slides using Google Slides or any othe
 
 1. Name of the app
 
-Please refer to the [Slide Preparation](slide-prep.md) section to understand the scope of this task.
+Please refer to the [Slide Preparation](slide-prep.md) section to understand the details of this task.
 
 #### Planning Deliverables
 
