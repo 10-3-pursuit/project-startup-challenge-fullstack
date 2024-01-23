@@ -64,9 +64,9 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 - You will create at least 5 User Stories
 - You will create 2 User Personas
 
-Send your instructors your Github repo address in one thread in Slack.
+Post your Github repo addresss in one your team channel in Slack.
 
-1. You will create wireframes for each page of the application. Try to include responsive wireframes as well.
+1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
 1. You will set up a trello board where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, 'Doing`, and  `Done`. You will post the link to your Trello Board in your Team Channel
 
