@@ -43,7 +43,7 @@ Based on the vote, you will build out both a presentation and an application.
 
 ### Part Two: Non-coding Deliverables
 
-For Final Presentation, you will create a Google Slides (or any other power point type application) with exactly 5 slides
+For Final Presentation, you will create 5 slides using Google Slides or any other power point type application.
 
 1. Team Name - with Team members names also written on it
 
