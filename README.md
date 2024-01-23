@@ -150,8 +150,10 @@ Deployment Videos:
 - [Backend Deployment using Render.com](https://github.com/10-3-pursuit/10-3-resources/blob/main/render-deployment.md)
 - [Frontend Deployment using Netlify](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md)
 
-[How To Create A Great Readme File](https://github.com/matiassingers/awesome-readme)
+- [How To Create A Great Readme File](https://github.com/matiassingers/awesome-readme)
 
-[Design Tools](https://github.com/10-3-pursuit/10-3-resources/tree/main/project-tools)
+- [Design Tools](https://github.com/10-3-pursuit/10-3-resources/tree/main/project-tools)
 
-[UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md)
+- [UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md)
+
+- [UI/UX Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/user-experience.md)
