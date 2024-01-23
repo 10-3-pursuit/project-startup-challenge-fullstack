@@ -24,6 +24,8 @@ This project has three parts:
 
 For Final Presentation, you will create 5 slides using Google Slides or any other power point type application.
 
+Slide Requirements:
+
 1. Team Name - with Team members names also written on it
 
 1. The problem you are trying to solve
