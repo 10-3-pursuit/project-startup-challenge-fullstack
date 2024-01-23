@@ -14,6 +14,8 @@ This project has three parts:
 1. Non Coding Deliverables
 1. The Application
 
+Here is a [Checklist](checklist.md) that you are welcome to use and add to for your convenience.
+
 ### Part One: The Pitch
 
 Your team will conceptualize two web app startup ideas and application, focusing on a unique problem-solving approach.
@@ -105,7 +107,7 @@ To complete the application, you will need to build a React application that imp
 
 1. The app may also fetch a 3rd party api data if it will add to the application.
 
-1. You must choose at least 2 of these options ( or submit options of your own) outside of the CRUD functionality:
+1. You must choose at least 2 of these Differentiating Features ( or submit options of your own) outside of the CRUD functionality:
 
    - Shopping Cart
    - Favorites Feature
@@ -118,7 +120,9 @@ To complete the application, you will need to build a React application that imp
 
 Use of React Router v6.2.1 is required. `npm install react-router-dom@6.2.1`
 
-#### Stretch goals
+You must have a minimum of 4 Routes.
+
+#### Differentiation goals
 
 This section of the project measures your ability to go above and beyond in creating your project. To score points in this section, you should incorporate a feature, technology, or skill not explicitly required by the project instructions.
 
