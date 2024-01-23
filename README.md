@@ -43,6 +43,8 @@ For Final Presentation, you will create a Google Slides (or any other power poin
 
 1. Name of the app
 
+Please refer to the [Slide Preparation](slide-prep.md) section to understand the scope of this task.
+
 #### Planning Deliverables
 
 1. In your Frontend Github Repo:
