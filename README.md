@@ -4,9 +4,15 @@
 
 Remember the fun [Startup Challenge](https://github.com/10-3-pursuit/startup-challenge) that we had a while ago? Well your team is going to take this a step futher in the `Project Startup Challenge.`
 
-You are ultimately going to give a presentation showing the problem you are trying to solve, the person you are solving it for as well as the actual coded MVP that demonstrates the application.
+You and your team now have the technical and intellectual capability to build out an MVP that solves a solid business problem.
+
+You are ultimately going to give a presentation showing the problem you are trying to solve, the user, for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
 
 This project has three parts:
+
+1. The Pitch
+1. Non Coding Deliverables
+1. The Application
 
 ### Part One: The Pitch
 
