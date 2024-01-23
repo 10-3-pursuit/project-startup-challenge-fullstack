@@ -144,4 +144,4 @@ Deployment Videos:
 
 [Design Tools](https://github.com/10-3-pursuit/10-3-resources/tree/main/project-tools)
 
-[UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md) -
+[UX Tools](https://github.com/10-3-pursuit/10-3-resources/blob/main/ux-tools.md)
