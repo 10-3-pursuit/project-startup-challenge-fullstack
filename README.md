@@ -14,8 +14,6 @@ This project has three parts:
 1. Non Coding Deliverables
 1. The Application
 
-Here is a [Checklist](checklist.md) that you are welcome to use and add to for your convenience.
-
 ### Part One: The Pitch
 
 **You should have already completed this part and can skip to Part Two**
@@ -149,7 +147,10 @@ _Make sure to include a description of any stretch goals you implemented inside 
 
 ### EXTRA RESOURCES:
 
-Deployment Videos:
+**Checklist:**
+Here is a [Checklist](checklist.md) that you are welcome to use and add to for your convenience.
+
+**Deployment Videos:**
 
 - [Backend Deployment using Render.com](https://github.com/10-3-pursuit/10-3-resources/blob/main/render-deployment.md)
 - [Frontend Deployment using Netlify](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md)
