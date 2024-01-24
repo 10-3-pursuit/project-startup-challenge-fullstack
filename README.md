@@ -115,6 +115,7 @@ This section of the project measures your ability to go above and beyond in crea
 _Make sure to include a description of any stretch goals you implemented inside your readme.md._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
 
 - Implement more than one API, using both datasets to create a new use case.
+- Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
 - Programmatically upload images to Cloudinary
 - Use a modal for your forms
