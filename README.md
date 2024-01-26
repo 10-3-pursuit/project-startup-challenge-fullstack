@@ -11,7 +11,7 @@ You are ultimately going to give a presentation showing the problem you are tryi
 This project has three parts:
 
 1. The Pitch
-1. Non Coding Deliverables
+1. Non-Coding Deliverables
 1. The Application
 
 ### Part One: The Pitch
@@ -20,7 +20,7 @@ This project has three parts:
 
 [Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge/blob/main/README.md)
 
-### Part Two: Non-coding Deliverables
+### Part Two: Non-Coding Deliverables
 
 For Final Presentation, you will create 5 slides using Google Slides or any other power point type application.
 
