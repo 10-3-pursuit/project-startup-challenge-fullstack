@@ -102,9 +102,13 @@ To complete the application, you will need to build a React application that imp
    - Shopping Cart
    - Favorites Feature
    - Filtering and showing results by subject e.g. genres, tags, favorites, items in cart
-   - Comments on a resource that persist in the server
+   - Comments on a resource that persist in the JSON server
    - Sorting some data
    - Searching for data
+   - Light Mode/Dark Mode
+   - Programmatic Image Upload
+   - Error Components
+   - 404 Page
 
 #### Routing
 
