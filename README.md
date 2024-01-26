@@ -110,14 +110,12 @@ _Make sure to include a description of any differentiating features you implemen
 - Sorting some data
 - Searching for data
 - Light Mode/Dark Mode
-- Programmatic Image Upload
 - Error Components
 - 404 Page
 - Implement more than one API, using both datasets to create a new use case.
 - Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
 - Programmatically upload images to Cloudinary
-- Use a modal for your forms
 - Use CSS Animations for your landing page and/or other views
 
 #### Routing
