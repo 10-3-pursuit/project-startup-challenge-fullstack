@@ -115,7 +115,6 @@ _Make sure to include a description of any differentiating features you implemen
 - Implement more than one API, using both datasets to create a new use case.
 - Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
-- Programmatically upload images to Cloudinary
 - Use CSS Animations for your landing page and/or other views
 
 #### Routing
