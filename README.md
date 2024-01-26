@@ -54,6 +54,9 @@ Post your Github repo address on your team channel in Slack.
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
 
 <img src="herbmatrix-diagram.png" width="400" height="250">
+<p></p>
+<p></p>
+<p></p>
 <sub>Shoutout HerbMatrix CodeRhythm</sub>
 <br />
 
