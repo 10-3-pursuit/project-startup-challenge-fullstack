@@ -86,7 +86,7 @@ To complete the application, you will need to build a React application that imp
 
    - Landing Page - [Landing Page Examples & Suggestions](https://www.wix.com/blog/best-landing-page-examples?utm_source=google&)
    - Header/Nav
-   - About - You may port your about page from your former project or create one that aligns with the style of your new project
+   - About - You may transfer your about page from your former project or create one that aligns with the style of your new project
    - Main View
    - Detailed View
    - One Other View - this will be based on the architecture of your application
