@@ -53,9 +53,9 @@ Post your Github repo address on your team channel in Slack.
 
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
 
-<img src="herbmatrix-diagram.png">
+<img src="herbmatrix-diagram.png" width="400" height="250">
 <sub>Shoutout HerbMatrix CodeRhythm</sub>
-
+<br />
 1. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
 
 ### Part Three: The Application
