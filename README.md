@@ -4,7 +4,7 @@
 
 Remember the fun [Startup Challenge](https://github.com/10-3-pursuit/startup-challenge) that we had a while ago? Well your team is going to take this a step futher in the `Project Startup Challenge.`
 
-You and your team now have the technical and intellectual capability to build out an MVP that solves a solid business problem.
+You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem.
 
 You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
 
