@@ -97,19 +97,6 @@ To complete the application, you will need to build a React application that imp
 
 1. The app may, optionally, fetch and incorporate third party api data.
 
-1. You must choose at least 2 of these Differentiating Features ( or submit options of your own) outside of the CRUD functionality:
-
-   - Shopping Cart
-   - Favorites Feature
-   - Filtering and showing results by subject e.g. genres, tags, favorites, items in cart
-   - Comments on a resource that persist in the JSON server
-   - Sorting some data
-   - Searching for data
-   - Light Mode/Dark Mode
-   - Programmatic Image Upload
-   - Error Components
-   - 404 Page
-
 #### Routing
 
 Use of React Router v6.2.1 is required. `npm install react-router-dom@6.2.1`
@@ -118,10 +105,20 @@ You must have a minimum of 4 Routes.
 
 #### Differentiation goals
 
-This section of the project measures your ability to go above and beyond in creating your project. To score points in this section, you should incorporate a feature, technology, or skill not explicitly required by the project instructions.
+This section of the project measures your ability to go above and beyond. To score points in this section, you should incorporate two features, technologies, or skills not explicitly required by the instructions.
 
-_Make sure to include a description of any stretch goals you implemented inside your readme.md._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
+_Make sure to include a description of any differentiating features you implemented inside your readme.md._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
 
+- Shopping Cart
+- Favorites Feature
+- Filtering and showing results by subject e.g. genres, tags, favorites, items in cart
+- Comments on a resource that persist in the JSON server
+- Sorting some data
+- Searching for data
+- Light Mode/Dark Mode
+- Programmatic Image Upload
+- Error Components
+- 404 Page
 - Implement more than one API, using both datasets to create a new use case.
 - Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
