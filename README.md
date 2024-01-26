@@ -32,7 +32,7 @@ For Final Presentation, you will create 5 slides using Google Slides or any othe
 
 1. The solution to the problem
 
-1. A persona representing the user that would use this app
+1. A persona representing a user of the application
 
 1. Name of the app
 
