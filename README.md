@@ -97,12 +97,6 @@ To complete the application, you will need to build a React application that imp
 
 1. The app may, optionally, fetch and incorporate third party api data.
 
-#### Routing
-
-Use of React Router v6.2.1 is required. `npm install react-router-dom@6.2.1`
-
-You must have a minimum of 4 Routes.
-
 #### Differentiation goals
 
 This section of the project measures your ability to go above and beyond. To score points in this section, you should incorporate two features, technologies, or skills not explicitly required by the instructions.
@@ -125,6 +119,12 @@ _Make sure to include a description of any differentiating features you implemen
 - Programmatically upload images to Cloudinary
 - Use a modal for your forms
 - Use CSS Animations for your landing page and/or other views
+
+#### Routing
+
+Use of React Router v6.2.1 is required. `npm install react-router-dom@6.2.1`
+
+You must have a minimum of 4 Routes.
 
 ### Backend Requirements:
 
