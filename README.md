@@ -47,6 +47,8 @@ In the readme.md your Frontend Github Repo:
 
 Post your Github repo address on your team channel in Slack.
 
+1. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
+
 1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
 1. You will set up a trello board where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel
@@ -54,13 +56,8 @@ Post your Github repo address on your team channel in Slack.
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
 
 <img src="herbmatrix-diagram.png" width="400" height="250">
-<p></p>
-<p></p>
-<p></p>
-<sub>Shoutout HerbMatrix CodeRhythm</sub>
-<br />
 
-4. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
+<sub>Shoutout HerbMatrix CodeRhythm</sub>
 
 ### Part Three: The Application
 
