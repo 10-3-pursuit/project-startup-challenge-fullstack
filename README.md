@@ -91,7 +91,7 @@ To complete the application, you will need to build a React application that imp
    - Detailed View
    - One Other View - this will be based on the architecture of your application
 
-1. The application must fetch to JSON Server to `create`, `read`, `update` and `delete` data.
+1. The application must fetch to your JSON Server to `create`, `read`, `update` and `delete` data.
 
 1. For the `read` of CRUD the team must include both an `Index` view and a `Show` view.
 
@@ -128,6 +128,7 @@ _Make sure to include a description of any stretch goals you implemented inside 
 ### Backend Requirements:
 
 - You will `fork` and `clone` the [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) to be deployed, later, to render.com
+
 - You will create (seed) data into your JSON Server in order to have data that can load on to a view. We call this seeding the data.
 
 - You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
