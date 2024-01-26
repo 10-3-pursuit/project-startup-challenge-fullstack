@@ -26,7 +26,7 @@ For Final Presentation, you will create 5 slides using Google Slides or any othe
 
 **Slide Requirements:**
 
-1. Team Name - with Team members names also written on it
+1. Team Name
 
 1. The problem you are trying to solve
 
