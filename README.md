@@ -95,7 +95,7 @@ To complete the application, you will need to build a React application that imp
 
 1. For the `read` of CRUD the team must include both an `Index` view and a `Show` view.
 
-1. The app may also fetcj 3rd party api data to incorporate into the application.
+1. The app may also fetch 3rd party api data to incorporate into the application.
 
 1. You must choose at least 2 of these Differentiating Features ( or submit options of your own) outside of the CRUD functionality:
 
