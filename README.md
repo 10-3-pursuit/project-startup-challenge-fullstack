@@ -127,13 +127,13 @@ _Make sure to include a description of any stretch goals you implemented inside 
 
 ### Backend Requirements:
 
-- You will `fork` and `clone` the [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) to be deployed, later, to render.com
+1. You will `fork` and `clone` the [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) to be deployed, later, to render.com
 
-- You will create (seed) data into your JSON Server in order to have data that can load on to a view. We call this seeding the data.
+1. You will create (seed) data into your JSON Server in order to have data that can load on to a view. We call this seeding the data.
 
-- You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
+1. You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
 
-- Reference these videos to understand how to seed your data: [JSON Server Videos](https://github.com/10-3-pursuit/10-3-resources/blob/main/json-server.md)
+1. Reference these videos to understand how to seed your data: [JSON Server Videos](https://github.com/10-3-pursuit/10-3-resources/blob/main/json-server.md)
 
 ### EXTRA RESOURCES:
 
