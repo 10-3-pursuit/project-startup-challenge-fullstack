@@ -56,7 +56,8 @@ Post your Github repo address on your team channel in Slack.
 <img src="herbmatrix-diagram.png" width="400" height="250">
 <sub>Shoutout HerbMatrix CodeRhythm</sub>
 <br />
-1. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
+
+4. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
 
 ### Part Three: The Application
 
