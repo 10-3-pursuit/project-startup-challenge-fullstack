@@ -11,7 +11,7 @@ To understand your end goal for the opening Slide Deck that you will present, re
 [Slide Demo](https://www.youtube.com/watch?v=yUl6RRdJwpQ&t=4978s) -
 watch from 49:35 to 51:55
 
-Slides must include:
+**Slides must include:**
 
 - Team Name (with team member names)
 - Problem
