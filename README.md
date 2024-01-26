@@ -136,7 +136,7 @@ You must have a minimum of 4 Routes.
 ### EXTRA RESOURCES:
 
 **Checklist:**
-Here is a [Checklist](checklist.md) that you are welcome to use and add to for your convenience.
+Here is a [Checklist](checklist.md) of requirements. It is not a comprehensive list. Feel free to update and use this list at your convenience.
 
 **Deployment Videos:**
 
