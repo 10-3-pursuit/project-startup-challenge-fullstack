@@ -127,7 +127,7 @@ You must have a minimum of 4 Routes.
 
 1. You will `fork` and `clone` the [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) to be deployed to render.com
 
-1. You will create (seed) data into your JSON Server in order to have data that can load on to a view. We call this seeding the data.
+1. You will create and add data into your JSON Server in order to have data that can load on to a view. We call this seeding the data.
 
 1. You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
 
