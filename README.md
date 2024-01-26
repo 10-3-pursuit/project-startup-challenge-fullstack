@@ -45,7 +45,7 @@ In the readme.md your Frontend Github Repo:
 - You will create at least 5 User Stories
 - You will create 2 User Personas showcasing users with similar but different needs
 
-Post your Github repo addresss in on your team channel in Slack.
+Post your Github repo address on your team channel in Slack.
 
 1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
