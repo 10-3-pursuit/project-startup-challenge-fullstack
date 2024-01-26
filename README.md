@@ -40,10 +40,10 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 
 #### Planning Deliverables
 
-1. In the readme.md your Frontend Github Repo:
+In the readme.md your Frontend Github Repo:
 
 - You will create at least 5 User Stories
-- You will create 2 User Personas
+- You will create 2 User Personas showcasing users with similar but different needs
 
 Post your Github repo addresss in one your team channel in Slack.
 
