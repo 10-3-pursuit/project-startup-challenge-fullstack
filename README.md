@@ -131,6 +131,8 @@ You must have a minimum of 4 Routes.
 
 1. You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
 
+1. A maximum of two key/value pairs is allowed for your JSON data.
+
 1. Reference these videos to understand how to seed your data: [JSON Server Videos](https://github.com/10-3-pursuit/10-3-resources/blob/main/json-server.md)
 
 ### EXTRA RESOURCES:
