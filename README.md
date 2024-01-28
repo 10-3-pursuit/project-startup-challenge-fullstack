@@ -68,7 +68,7 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 
 ### Frontend Requirements:
 
-1. The front-end application should be successfully deployed to the web using netlify.com.
+1. The front-end application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
 
 1. Your front-end repository should have a readme.md file with: - User Stories - Wireframe images - Setup instructions for your application. - Links to your deployed application.
 
@@ -140,9 +140,10 @@ You must have a minimum of 4 Routes.
 **Checklist:**
 Here is a [Checklist](checklist.md) of requirements. It is not a comprehensive list. Feel free to update and use this list at your convenience.
 
-**Deployment Videos:**
+**Deployment Videos and Resources:**
 
 - [Backend Deployment using Render.com](https://github.com/10-3-pursuit/10-3-resources/blob/main/render-deployment.md)
+
 - [Frontend Deployment using Netlify](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md)
 
 - [How To Create A Great Readme File](https://github.com/matiassingers/awesome-readme)
