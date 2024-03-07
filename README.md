@@ -1,8 +1,8 @@
-# Project Startup Challenge
+# Project Startup Challenge FULLSTACK
 
 <img src="ads_600x400.png" width="600" height="400">
 
-Remember the fun [Startup Challenge](https://github.com/10-3-pursuit/startup-challenge) that we had a while ago? Well your team is going to take this a step futher in the `Project Startup Challenge.`
+You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startuup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
 
 You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem.
 
@@ -125,15 +125,13 @@ You must have a minimum of 4 Routes.
 
 ### Backend Requirements:
 
-1. You will `fork` and `clone` the [JSON Server Starter](https://github.com/10-3-pursuit/json-server-starter) to be deployed to render.com
+1. You will create a backend server.
 
-1. You will create and add data to your JSON Server in order to have data that can load on to a view. We call this seeding the data.
+1. You will setup routes and database.
 
-1. You will place this data in two separate files as noted in the JSON Server Videos. The `db.json` file and the `originalData.json` file.
+1. You will seed data into your database in order to have data that can load on to a view.
 
-1. A suggested maximum of two key/value pairs is allowed for your JSON data. **\*\*Note:** It is suggested you add your data and deploy your backend before coding the frontend.
-
-1. Reference these videos to understand how to seed your data: [JSON Server Videos](https://github.com/10-3-pursuit/10-3-resources/blob/main/json-server.md)
+1. A minimum of two tables will be needed for this project.
 
 ### EXTRA RESOURCES:
 
@@ -142,7 +140,7 @@ Here is a [Checklist](checklist.md) of requirements. It is not a comprehensive l
 
 **Deployment Videos and Resources:**
 
-- [Backend Deployment using Render.com](https://github.com/10-3-pursuit/10-3-resources/blob/main/render-deployment.md)
+- [Backend Deployment using Render.com pt.1](https://github.com/10-3-pursuit/10-3-resources/blob/main/render-deployment.md)
 
 - [Frontend Deployment using Netlify](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md)
 
