@@ -61,7 +61,7 @@ Post your Github repo address on your team channel in Slack.
 
 ### Part Three: The Application
 
-You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, JSON Server, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc, your choice). You may also incorporate a 3rd party api to give you data that is already created.
+You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, Express, PostgreSQL, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc, your choice). You may also incorporate a 3rd party api to give you data that is already created.
 
 > **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
