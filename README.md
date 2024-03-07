@@ -66,6 +66,12 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 > **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
 
+### Github requirements
+
+1. Your team should be working on branches
+1. Teams should commit and push often (we will monitor the repo commits)
+1. No hot fixes on the main branch without consulting a coach
+
 ### Frontend Requirements:
 
 1. The front-end application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
