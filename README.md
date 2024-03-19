@@ -4,7 +4,7 @@
 
 You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
 
-You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem.
+You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects. Programmers often reuse code.
 
 You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
 
@@ -41,15 +41,15 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 
 #### Planning Deliverables
 
-In the readme.md your Frontend Github Repo:
+In the readme.md your Frontend Github Repo, you will create:
 
-- You will create an visual ERD of your table(s) for your database
-- You will create at least 5 User Stories
-- You will create 2 User Personas showcasing users with similar but different needs
+- A visual ERD of your table(s) for your database
+- At least 5 User Stories
+- 2 User Personas showcasing users with similar but different needs
 
 Post your Github repo address on your team channel in Slack.
 
-1. Go over what your group norms will be and Post your Group Norms Link in the team Slack channel.
+1. Go over and notate what your group norms will be and Post your Group Norms Doc Link in the team Slack channel.
 
 1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
@@ -63,22 +63,28 @@ Post your Github repo address on your team channel in Slack.
 
 ### Part Three: The Application
 
-You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, Express, PostgreSQL, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (comments, shopping cart, favorites, etc, your choice). You may also incorporate a 3rd party api to give you data that is already created.
+You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, Express, PostgreSQL, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (e.g. comments, shopping cart, favorites, etc, your choice).
 
 > **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
 
 ### Github requirements
 
-1. Your team should be working on branches
-1. Teams should commit and push often (we will monitor the repo commits)
-1. No hot fixes on the main branch without consulting a coach
+1. Your team should be working on branches.
+1. Teams should commit and push often (we will monitor the repo commits).
+1. No hot fixes on the main branch without consulting a coach!
 
 ### Frontend Requirements:
 
 1. The front-end application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
 
-1. Your front-end repository should have a readme.md file with: - User Stories - Wireframe images - Setup instructions for your application. - Links to your deployed application.
+1. Your front-end repository should have a readme.md file with:
+
+   - User Stories
+   - Wireframe images
+   - Setup instructions for your application
+   - A Link to your deployed application
+   - A Link to your local Backend application
 
 1. Your front-end repository should be built collaboratively. There should be commits from you and other developers on your team.
 
@@ -99,11 +105,9 @@ To complete the application, you will need to build a React application that imp
    - Detailed View
    - One Other View - this will be based on the architecture of your application
 
-1. The application must fetch to your JSON Server to `create`, `read`, `update` and `delete` data.
+1. The application must fetch to your database to `create`, `read`, `update` and `delete` and persist the data.
 
 1. For the `read` of CRUD the team must include both an `Index` view and a `Show` view.
-
-1. The app may, optionally, fetch and incorporate third party api data.
 
 #### Differentiation goals
 
@@ -123,7 +127,9 @@ _Make sure to include a description of any differentiating features you implemen
 - Implement more than one API, using both datasets to create a new use case.
 - Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
-- Use CSS Animations for your landing page and/or other views
+- Use CSS Animations for your landing page and/or other views.
+- Use Chart.js or another package that will enhance the application.
+- Optionally, fetch and incorporate third party api data.
 
 #### Routing
 
@@ -133,13 +139,27 @@ You must have a minimum of 4 Routes.
 
 ### Backend Requirements:
 
-1. You will create a backend server.
+1. Create a backend server.
 
-1. You will setup routes and database.
+1. Setup routes, queries and controllers for each entity.
 
-1. You will seed data into your database in order to have data that can load on to a view.
+1. Create a database schema with a minumum of 1 table and a maximum of 3
 
-1. A minimum of two tables will be needed for this project.
+1. Seed data into your database in order to have data that can load on to a view at start.
+
+### Optional User Login
+
+If your team feels they are capable of adding User Login to the application, you may **only** do this using the already prepared User Auth login front and backend starters.
+Links:
+
+- [Backend](https://github.com/10-3-pursuit/auth-express-login)
+- [Frontend](https://github.com/10-3-pursuit/auth-react-login)
+
+Auth Starter Videos:
+
+- [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
+- [Backend Part Two](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710864108000)
+- [Frontend](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710865581000)
 
 ### EXTRA RESOURCES:
 
