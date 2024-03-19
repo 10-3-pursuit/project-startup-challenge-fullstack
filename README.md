@@ -19,13 +19,13 @@ This project has four parts:
 1. The Application
 1. The Presentation
 
-### Part One: The Pitch
+## Part One: The Pitch
 
 **You should have already completed this part and can skip to Part Two**
 
 [Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge-pitch)
 
-### Part Two: Non-Coding Deliverables
+## Part Two: Non-Coding Deliverables
 
 For Final Presentation, you will create 5 slides using Google Slides or any other power point type application.
 
@@ -43,7 +43,7 @@ For Final Presentation, you will create 5 slides using Google Slides or any othe
 
 Please refer to the [Slide Preparation](slide-prep.md) section to understand the details of this task.
 
-#### Planning Deliverables
+### Planning Deliverables
 
 In the readme.md your Frontend Github Repo, you will create:
 
@@ -51,7 +51,7 @@ In the readme.md your Frontend Github Repo, you will create:
 - At least 5 User Stories
 - 2 User Personas showcasing users with similar but different needs
 
-**Post these deliverables in your team Slack channel:**
+#### Post these deliverables in your team Slack channel:
 
 1. Your front and backend Github repos
 
@@ -59,7 +59,7 @@ In the readme.md your Frontend Github Repo, you will create:
 
 1. You will set up a trello board (or another tracking systemd) where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel.
 
-You will also create:
+#### You will also create:
 
 1. A snapshot of wireframes for each view of the application.
 
@@ -76,7 +76,7 @@ You will also create:
 1. Use the clone and branch method as a team on Github.
 1. No hot fixes on the main branch without consulting a coach!
 
-### Part Three: The Application
+## Part Three: The Application
 
 You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1 `npm install react-router-dom@6.2.1`, Express, PostgreSQL, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (e.g. comments, shopping cart, favorites, etc, your choice).
 
@@ -166,7 +166,7 @@ If your team feels they are capable of adding User Login to the application, you
 - [Backend](https://github.com/10-3-pursuit/auth-express-login)
 - [Frontend](https://github.com/10-3-pursuit/auth-react-login)
 
-#### Auth Starter Videos
+### Auth Starter Videos
 
 - [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
 
@@ -174,11 +174,11 @@ If your team feels they are capable of adding User Login to the application, you
 
 - [Frontend](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710865581000)
 
-### Part Four: The Presentation
+## Part Four: The Presentation
 
 Your team will all participate in a presentation that lasts no more than 15 minutes.
 
-#### Your presentation will consist of the following:
+### Your presentation will consist of the following:
 
 - a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class. Reference the [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) repo if you are not clear about how to do this.
 
@@ -189,13 +189,13 @@ Your team will all participate in a presentation that lasts no more than 15 minu
   - Persona
   - App Name
 
-  **Note:** Refer to the [slide prep instructions](./slide-prep.md) for clarity
+**Note:** Refer to the [slide prep instructions](./slide-prep.md) for clarity
 
-  - Presentation of the working application.
+- Presentation of the working application.
 
-  - Each person must speak to the application or the introduction.
+- Each person must speak to the application or the introduction.
 
-  - Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
+- Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
 
 ### EXTRA RESOURCES:
 
