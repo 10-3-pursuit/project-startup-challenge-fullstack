@@ -51,19 +51,32 @@ In the readme.md your Frontend Github Repo, you will create:
 - At least 5 User Stories
 - 2 User Personas showcasing users with similar but different needs
 
-Post your Github repo address on your team channel in Slack.
+Post these deliverables in your team Slack channel:
 
-1. Go over and notate your group norms and `Post your Group Norms Doc Link` in the team Slack channel.
+1. Your front and backend Github repos
 
-1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
+1. Your Group Norms Doc Link
 
-1. You will set up a trello board (or another tracking systemd) where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel
+1. You will set up a trello board (or another tracking systemd) where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel.
+
+You will also create:
+
+1. ERD of your Database Schema
+
+1. A snapshot of wireframes for each view of the application.
 
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
 
 <img src="purple-matrix.png" width="400" height="250">
 
 <sub>Shoutout Purple Cobras CodeRhythm</sub>
+
+### Github requirements
+
+1. Your team should be working on branches.
+1. Teams should commit and push several times daily (we will monitor the repo commits).
+1. Use the clone and branch method as a team on Github.
+1. No hot fixes on the main branch without consulting a coach!
 
 ### Part Three: The Application
 
@@ -72,25 +85,19 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 > **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
 
-### Github requirements
-
-1. Your team should be working on branches.
-1. Teams should commit and push often (we will monitor the repo commits).
-1. No hot fixes on the main branch without consulting a coach!
-
 ### Frontend Requirements:
 
-1. The front-end application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
+1. The frontend application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
 
-1. Your front-end repository should have a readme.md file with:
+1. Your frontend repository should have a readme.md file with:
 
    - User Stories
    - Wireframe images
    - Setup instructions for your application
    - A Link to your deployed application
-   - A Link to your local Backend application
+   - A Link to your local backend application
 
-1. Your front-end repository should be built collaboratively. There should be commits from you and other developers on your team.
+1. Your frontend repository should be built collaboratively. There should be commits from you and other developers on your team.
 
 1. The application should have a coherent design and appear clean and easy to understand.
 
@@ -119,7 +126,7 @@ This section of the project measures your ability to go above and beyond. To sco
 
 _Make sure to include a description of any differentiating features you implemented inside your readme.md._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
 
-- Shopping Cart
+- CSS Framework such as Bootstrap or Tailwind
 - Favorites Feature
 - Filtering and showing results by subject e.g. genres, tags, favorites, items in cart
 - Comments on a resource that persist in the JSON server
@@ -127,8 +134,7 @@ _Make sure to include a description of any differentiating features you implemen
 - Searching for data
 - Light Mode/Dark Mode
 - Error Components
-- 404 Page
-- Implement more than one API, using both datasets to create a new use case.
+- Designed CSS 404 Page
 - Programmatically upload and store images on Cloudinary and in your JSON as a string.
 - Integrate an external React package such as [React DnD](https://react-dnd.github.io/react-dnd/about) or [Styled Components](https://styled-components.com/) or some other package. (research carefully)
 - Use CSS Animations for your landing page and/or other views.
@@ -151,7 +157,7 @@ You must have a minimum of 4 Routes.
 
 1. Seed data into your database in order to have data that can load on to a view at start.
 
-### Optional User Login
+### Optional User Login and Authentication Starter Usage
 
 If your team feels they are capable of adding User Login to the application, you may **only** do this using the already prepared `User Auth login front and backend starters`.
 
