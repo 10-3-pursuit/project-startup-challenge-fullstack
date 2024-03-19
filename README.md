@@ -6,7 +6,9 @@ You originally participated in a simple 'Startup Challenge' in Module 2 using us
 
 Now it's time to build a fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
 
-You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects. **Programmers reuse code whenever they can!**
+You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects.
+
+**Programmers reuse code whenever they can!**
 
 You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as present the actual functioning MVP application representing the first iteration of the solution.
 
