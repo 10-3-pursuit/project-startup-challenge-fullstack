@@ -53,7 +53,7 @@ In the readme.md your Frontend Github Repo, you will create:
 
 Post your Github repo address on your team channel in Slack.
 
-1. Go over and notate what your group norms will be and Post your Group Norms Doc Link in the team Slack channel.
+1. Go over and notate your group norms and `Post your Group Norms Doc Link` in the team Slack channel.
 
 1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
