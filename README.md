@@ -51,7 +51,7 @@ In the readme.md your Frontend Github Repo, you will create:
 - At least 5 User Stories
 - 2 User Personas showcasing users with similar but different needs
 
-Post these deliverables in your team Slack channel:
+**Post these deliverables in your team Slack channel:**
 
 1. Your front and backend Github repos
 
