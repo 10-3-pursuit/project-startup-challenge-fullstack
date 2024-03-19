@@ -176,7 +176,9 @@ If your team feels they are capable of adding User Login to the application, you
 
 ### Part Four: The Presentation
 
-Your presentation will consist of the following:
+Your team will all participate in a presentation that lasts no more than 15 minutes.
+
+#### Your presentation will consist of the following:
 
 - a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class. Reference the [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) repo if you are not clear about how to do this.
 
