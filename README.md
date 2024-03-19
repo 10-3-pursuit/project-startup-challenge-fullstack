@@ -149,13 +149,14 @@ You must have a minimum of 4 Routes.
 
 ### Optional User Login
 
-If your team feels they are capable of adding User Login to the application, you may **only** do this using the already prepared User Auth login front and backend starters.
-Links:
+If your team feels they are capable of adding User Login to the application, you may **only** do this using the already prepared `User Auth login front and backend starters`.
+
+**Links**
 
 - [Backend](https://github.com/10-3-pursuit/auth-express-login)
 - [Frontend](https://github.com/10-3-pursuit/auth-react-login)
 
-Auth Starter Videos:
+#### Auth Starter Videos
 
 - [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
 - [Backend Part Two](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710864108000)
