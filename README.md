@@ -2,11 +2,13 @@
 
 <img src="startup.png" width="500" height="500">
 
-You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
+You originally participated in a simple 'Startup Challenge' in Module 2 using user research, user stories and pitches. Then, in Module 3, you created a 'modified' fullstack 'Startup Challenge' using ReactJS and json-server.
 
-You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects. Programmers often reuse code.
+Now it's time to build a fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
 
-You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
+You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects. **Programmers reuse code whenever they can!**
+
+You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as present the actual functioning MVP application representing the first iteration of the solution.
 
 This project has four parts:
 
@@ -161,6 +163,27 @@ If your team feels they are capable of adding User Login to the application, you
 - [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
 - [Backend Part Two](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710864108000)
 - [Frontend](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710865581000)
+
+### Part Four: The Presentation
+
+Your presentation will consist of the following:
+
+- a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class. Reference the [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) repo if you are not clear about how to do this.
+
+- Slides to accompany your verbal articulation of:
+
+  - Problem
+  - Solution
+  - Persona
+  - App Name
+
+  Refer to the [slide prep instructions](./slide-prep.md) for clarity
+
+  - Presentation of the working application.
+
+  - Each person must speak to the application or the introduction.
+
+  - Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
 
 ### EXTRA RESOURCES:
 
