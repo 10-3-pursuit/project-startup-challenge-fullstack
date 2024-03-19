@@ -161,12 +161,12 @@ You must have a minimum of 4 Routes.
 
 If your team feels they are capable of adding User Login to the application, you may **only** do this using the already prepared `User Auth login front and backend starters`.
 
-**Links**
+#### Starter Github Repo Front and Backend Links
 
 - [Backend](https://github.com/10-3-pursuit/auth-express-login)
 - [Frontend](https://github.com/10-3-pursuit/auth-react-login)
 
-### Auth Starter Videos
+#### Auth Starter Video Demos Front and Backend
 
 - [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
 
