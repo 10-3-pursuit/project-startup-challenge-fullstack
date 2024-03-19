@@ -169,7 +169,9 @@ If your team feels they are capable of adding User Login to the application, you
 #### Auth Starter Videos
 
 - [Backend Part One](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710861741000)
+
 - [Backend Part Two](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710864108000)
+
 - [Frontend](https://us06web.zoom.us/rec/share/zcUpuUEOD-u6rzCCDxVnsblnyZU2PKP5SpO3L9mEgvTC-KUc0yizYznlMBVeEv9V.DwBcjda5SJCZycvi?startTime=1710865581000)
 
 ### Part Four: The Presentation
