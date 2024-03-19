@@ -153,6 +153,8 @@ You must have a minimum of 4 Routes.
 
 1. Setup routes, queries and controllers for each entity.
 
+1. POST and PUT routes should have some type of validation either using middleware and vanillaJS or using [Express-Validator](https://express-validator.github.io/docs/)
+
 1. Create a database schema with a minumum of 1 table and a maximum of 3
 
 1. Seed data into your database in order to have data that can load on to a view at start.
@@ -189,7 +191,7 @@ Your team will all participate in a presentation that lasts no more than 15 minu
   - Persona
   - App Name
 
-  Refer to the [slide prep instructions](./slide-prep.md) for clarity
+  **Note:** Refer to the [slide prep instructions](./slide-prep.md) for clarity
 
   - Presentation of the working application.
 

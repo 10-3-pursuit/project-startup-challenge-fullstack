@@ -20,7 +20,11 @@
 - [ ] - Create Form
 - [ ] - Update Form
 - [ ] - Delete Functionality
-- [ ] - Seeded JSON Server Data
+- [ ] - Schema Created
+- [ ] - Seeded Database
+- [ ] - Controllers and Routes
+- [ ] - Queries
+- [ ] - Validations
 - [ ] - Readme.md
 - [ ] - Group Norms
 - [ ] - Cohesive Style
