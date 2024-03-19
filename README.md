@@ -61,8 +61,6 @@ Post these deliverables in your team Slack channel:
 
 You will also create:
 
-1. ERD of your Database Schema
-
 1. A snapshot of wireframes for each view of the application.
 
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
