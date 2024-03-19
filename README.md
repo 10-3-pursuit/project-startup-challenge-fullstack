@@ -1,6 +1,6 @@
 # Project Startup Challenge FULLSTACK
 
-<img src="ads_600x400.png" width="600" height="400">
+<img src="startup.png" width="600" height="400">
 
 You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startuup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
 
