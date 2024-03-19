@@ -2,7 +2,7 @@
 
 <img src="startup.png" width="500" height="500">
 
-You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startuup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
+You've now participated in a simple 'Startup Challenge' with user research, user stories and pitches. Then you created modified fullstack 'Startup Challenge' using React and json-server. Now it's time to put it all together with React, Express & PostgreSQL.
 
 You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem.
 
