@@ -43,16 +43,17 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 
 In the readme.md your Frontend Github Repo:
 
+- You will create an visual ERD of your table(s) for your database
 - You will create at least 5 User Stories
 - You will create 2 User Personas showcasing users with similar but different needs
 
 Post your Github repo address on your team channel in Slack.
 
-1. Revisit your group norms and see if there are revisions that need to be made or new norms that need to be added. Post your Group Norms Link in the team Slack channel.
+1. Go over what your group norms will be and Post your Group Norms Link in the team Slack channel.
 
 1. You will create wireframes for each view of the application. Try to include responsive wireframes as well.
 
-1. You will set up a trello board where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel
+1. You will set up a trello board (or another tracking systemd) where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel
 
 1. Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help your team better understand the structure of your application.
 
