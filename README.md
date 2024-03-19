@@ -193,7 +193,7 @@ Your team will all participate in a presentation that lasts no more than 15 minu
 
 1. Presentation of the working application.
 
-1. Each person must speak to the application or the introduction.
+1. Each person must speak to the application or the application introduction in addition to giving their own solo 30 second introductions.
 
 1. Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
 
