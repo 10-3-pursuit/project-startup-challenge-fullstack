@@ -8,17 +8,18 @@ You and your team now have the technical and intellectual capability to build ou
 
 You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as the actual MVP application representing the first iteration of the solution.
 
-This project has three parts:
+This project has four parts:
 
 1. The Pitch
 1. Non-Coding Deliverables
 1. The Application
+1. The Presentation
 
 ### Part One: The Pitch
 
 **You should have already completed this part and can skip to Part Two**
 
-[Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge/blob/main/README.md)
+[Startup Challenge Pitch Instructions](https://github.com/10-3-pursuit/project-startup-challenge-pitch)
 
 ### Part Two: Non-Coding Deliverables
 
