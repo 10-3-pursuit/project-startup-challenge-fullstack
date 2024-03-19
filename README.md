@@ -55,7 +55,7 @@ In the readme.md your Frontend Github Repo, you will create:
 
 1. Your front and backend Github repos
 
-1. Your Group Norms Doc Link
+1. Your Group Norms Doc Link . Refer to this [Group Norms Repo Link](https://github.com/10-3-pursuit/unit-react/tree/main/group-norms-and-teamwork) to review how to establish Group Norms.
 
 1. You will set up a trello board (or another tracking systemd) where you invite your team members as well as the instructors. The trello board must have 3 minimum cards: `To Do`, `Doing`, and `Done`. You will post the link to your Trello Board to your Team Channel.
 
