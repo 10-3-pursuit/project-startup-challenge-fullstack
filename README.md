@@ -180,22 +180,22 @@ Your team will all participate in a presentation that lasts no more than 15 minu
 
 ### Your presentation will consist of the following:
 
-- a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class. Reference the [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) repo if you are not clear about how to do this.
+1. a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class. Reference the [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) repo if you are not clear about how to do this.
 
-- Slides to accompany your verbal articulation of:
+1. Slides to accompany your verbal articulation of:
 
-  - Problem
-  - Solution
-  - Persona
-  - App Name
+   - Problem
+   - Solution
+   - Persona
+   - App Name
 
-**Note:** Refer to the [slide prep instructions](./slide-prep.md) for clarity
+   **Note:** Refer to the [slide prep instructions](./slide-prep.md) for clarity
 
-- Presentation of the working application.
+1. Presentation of the working application.
 
-- Each person must speak to the application or the introduction.
+1. Each person must speak to the application or the introduction.
 
-- Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
+1. Every member must describe a piece of code that they contributed to, either from the frontend or the back. Not both. For time's sake. You should use line numbers and technical vocabulary when describing the code.
 
 ### EXTRA RESOURCES:
 
