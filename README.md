@@ -1,6 +1,6 @@
 # Project Startup Challenge 3 - FULLSTACK
 
-<img src="startup.png" width="500" height="500">
+<img src="lightbulb.png" width="500" height="500">
 
 You originally participated in a simple 'Startup Challenge' in Module 2 using user research, user stories and pitches. Then, in Module 3, you created a 'modified' fullstack 'Startup Challenge' using ReactJS and json-server.
 
