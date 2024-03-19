@@ -1,4 +1,4 @@
-# Project Startup Challenge FULLSTACK
+# Project Startup Challenge 3 - FULLSTACK
 
 <img src="startup.png" width="500" height="500">
 
