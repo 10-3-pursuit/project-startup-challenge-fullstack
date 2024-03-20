@@ -4,7 +4,7 @@
 
 You originally participated in a simple 'Startup Challenge' in Module 2 using user research, user stories and pitches. Then, in Module 3, you created a 'pseudo' fullstack Startup Challenge Poject using ReactJS and json-server.
 
-Now it's time to build a fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
+Now it's time to build an actual fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
 
 You and your team now have the technical and intellectual capability to build out an MVP that solves an actual problem. Don't forget all of the tricks and code you've used in other projects.
 
