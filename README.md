@@ -45,7 +45,7 @@ Please refer to the [Slide Preparation](slide-prep.md) section to understand the
 
 ### Planning Deliverables
 
-In the readme.md your Frontend Github Repo, you will create:
+In the readme.md of your Frontend Github Repo, you will create:
 
 - A visual ERD of your table(s) for your database
 - At least 5 User Stories
