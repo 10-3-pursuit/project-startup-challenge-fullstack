@@ -10,7 +10,7 @@ You and your team now have the technical and intellectual capability to build ou
 
 **Programmers reuse code whenever they can!**
 
-You are ultimately going to give a presentation showing the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as present the actual functioning MVP application representing the first iteration of the solution.
+You are ultimately going to give a presentation that exhibits the problem you are trying to solve, the user (persona), for whom, you are trying to solve this problem, as well as present the actual functioning MVP application representing the first iteration of the solution.
 
 This project has four parts:
 
