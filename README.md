@@ -2,7 +2,7 @@
 
 <img src="lightbulb.png" width="500" height="500">
 
-You originally participated in a simple 'Startup Challenge' in Module 2 using user research, user stories and pitches. Then, in Module 3, you created a 'pseudo' fullstack Startup Challenge Poject using ReactJS and json-server.
+You originally participated in a basic Startup Challenge in Module 2 using user research, user stories and pitches to present ideas. Then, in Module 3, you created a 'pseudo' fullstack Startup Challenge Poject using ReactJS and json-server.
 
 Now it's time to build an actual fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
 
