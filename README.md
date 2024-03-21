@@ -80,7 +80,7 @@ In the readme.md of your Frontend Github Repo, you will create:
 
 ## Part Three: The Application
 
-You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1, Express, PostgreSQL, CSS, and JavaScript. The application must have full CRUD functionality for one part of the application (e.g. comments, shopping cart, favorites, etc, your choice).
+You will create and deploy an application that uses Vite, ReactJS, React Router 6.2.1, ExpressJS, PostgreSQL, pg-promise, CSS, and vanilla JavaScript. The application must have full CRUD functionality for one part of the application (e.g. comments, shopping cart, favorites, etc, your choice).
 
 > **Note**: Your contributions to this group project must be equitable.
 > Please also note that team members should work _across_ the stack. One team member should not be solely responsible for the CSS or non-coding deliverables, for example.
