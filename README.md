@@ -186,7 +186,7 @@ Your team will all participate in a presentation that lasts no more than 15 minu
 
 ### Your presentation will consist of the following:
 
-1. a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class.
+1. 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class.
 
    _Resources:_
 
