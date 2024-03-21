@@ -69,7 +69,7 @@ In the readme.md of your Frontend Github Repo, you will create:
 
 <img src="purple-matrix.png" width="400" height="250">
 
-<sub>Shoutout Purple Cobras CodeRhythm</sub>
+<sub>Shoutout Purple Cobras</sub>
 
 ### Github requirements
 
