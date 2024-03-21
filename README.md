@@ -189,8 +189,9 @@ Your team will all participate in a presentation that lasts no more than 15 minu
 1. a 30 second introduction on who each of you are and how you decided to be a programmer. **Do not start with your name.** You may use the speeches that you already practiced in class.
 
 **Resources:**
-[Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) - instructions on how to create your intro.
-[Self Introduction Presentation](https://us06web.zoom.us/rec/share/ItuyO7ddqIAnUP77YqHYM5KmfdrT6LD1QKGuQcu4vEt8YpRolQDgIlsyZF3Ta6M.58fyd3xaDSMKhuqO?startTime=1709651695000) - Video of your first shot at self introductions. Watch yourself and see how you could improve. Story? Energy Level? Confidence?
+
+- [Snapshots of Our Journeys to Tech](https://github.com/10-3-pursuit/snapshots-of-our-journey-solo-intros) - instructions on how to create your intro.
+- [Self Introduction Presentation](https://us06web.zoom.us/rec/share/ItuyO7ddqIAnUP77YqHYM5KmfdrT6LD1QKGuQcu4vEt8YpRolQDgIlsyZF3Ta6M.58fyd3xaDSMKhuqO?startTime=1709651695000) - Video of your first shot at self introductions. Watch yourself and see how you could improve. Story? Energy Level? Confidence?
 
 1. Slides to accompany your verbal articulation of:
 
