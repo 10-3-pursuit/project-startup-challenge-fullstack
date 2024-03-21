@@ -153,7 +153,7 @@ You must have a minimum of 4 Routes.
 
 ### Backend Requirements:
 
-1. One person should fork and clone the [express-server-starter](https://github.com/10-3-pursuit/express-server-starter) and the other team members should clone it.
+1. One teammate should fork and clone the [express-server-starter](https://github.com/10-3-pursuit/express-server-starter) and the other team members should clone it.
 
 1. Setup routes, queries and controllers for each resource.
 
