@@ -89,8 +89,6 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 
 1. One teammate should `fork` the [react-basic-starter](https://github.com/10-3-pursuit/react-basic-starter) and all other teammates should clone that teammates repo.
 
-1. The frontend application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
-
 1. Your frontend repository should have a readme.md file with:
 
    - User Stories
@@ -104,6 +102,8 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 1. The application should have a coherent design and appear clean and easy to understand.
 
 1. Responsive CSS is required with at least one breakpoint.
+
+1. The frontend application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
 
 #### View Requirements
 
@@ -127,6 +127,8 @@ To complete the application, you will need to build a React application that imp
 This section of the project measures your ability to go above and beyond. To score points in this section, you should incorporate two features, technologies, or skills not explicitly required by the instructions.
 
 _Make sure to include a description of any differentiating features you implemented inside your readme.md._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
+
+**Ideas:**
 
 - CSS Framework such as Bootstrap or Tailwind
 - Favorites Feature
