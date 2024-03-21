@@ -147,7 +147,7 @@ _Make sure to include a description of any differentiating features you implemen
 
 #### Routing
 
-Use of React Router v6.2.1 is required. `npm install react-router-dom@6.2.1`
+Use of React Router v6.2.1 is required. it is already included in the `package.json` of the React starter repo that you forked and cloned.
 
 You must have a minimum of 4 Routes.
 
