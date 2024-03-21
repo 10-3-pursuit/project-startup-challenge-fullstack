@@ -2,6 +2,8 @@
 
 <img src="lightbulb.png" width="500" height="500">
 
+## Overview
+
 You originally participated in a basic Startup Challenge in Module 2 using user research, user stories and pitches to present ideas. Then, in Module 3, you created a 'pseudo' fullstack Startup Challenge Poject using ReactJS and json-server.
 
 Now it's time to build an actual fullstack application that persists data using ReactJS, ExpressJS & PostgreSQL and pg-promise.
@@ -85,6 +87,8 @@ You will create and deploy an application that uses Vite, ReactJS, React Router 
 
 ### Frontend Requirements:
 
+1. One teammate should `fork` the [react-basic-starter](https://github.com/10-3-pursuit/react-basic-starter) and all other teammates should clone that teammates repo.
+
 1. The frontend application should be successfully deployed to the web using netlify.com. To enable page refreshing, you will need to add an extra file called \_redirects. Please take a look at the [Netlify Deployment Resources](https://github.com/10-3-pursuit/10-3-resources/blob/main/netlify-deployment.md) for the solution, explanation and resources.
 
 1. Your frontend repository should have a readme.md file with:
@@ -147,9 +151,9 @@ You must have a minimum of 4 Routes.
 
 ### Backend Requirements:
 
-1. Create a backend server.
+1. One person should fork and clone the [express-server-starter](https://github.com/10-3-pursuit/express-server-starter) and the other team members should clone it.
 
-1. Setup routes, queries and controllers for each entity.
+1. Setup routes, queries and controllers for each resource.
 
 1. POST and PUT routes should have some type of validation either using middleware and vanillaJS or using [Express-Validator](https://express-validator.github.io/docs/)
 
